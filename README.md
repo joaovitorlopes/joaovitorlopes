@@ -3,7 +3,6 @@
 - 🌱 Pretendo ser Perito Criminal Federal - Área 03;
 - 👯 Hard Skills => HTML, CSS, Python
 - 🤔 21 anos
-- Stacks
 ## Tools
 
 ### Back-end
