@@ -1,4 +1,5 @@
 ### Olá, eu sou o João! 👋
+- 👨🏻‍💻 Analista de Sistemas
 - 🔭 Cursando Computação Forense e Cyber Segurança;
 - 🌱 Pretendo ser Perito Criminal Federal - Área 03;
 - 👯 Hard Skills => HTML, CSS, Python
@@ -29,8 +30,3 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/joaovitorlopes/count.svg" /></p> 
       <br></div>
-
-  
-  
-
- 
