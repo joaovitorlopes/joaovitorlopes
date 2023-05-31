@@ -1,21 +1,21 @@
 ### Olá, eu sou o João! 👋
 - 👨🏻‍💻 Analista de Sistemas
-- 🔭 Pós-graduado em Computação Forense e Cyber Segurança;
-- 🌱 Pretendo ser Perito Criminal Federal - Área 03;
-- 👯 Hard Skills => HTML, CSS, Python, JavaScript;
+- 🕵️ Pós-graduado em Computação Forense e Cyber Segurança;
+- 📚 Pretendo ser Perito Criminal Federal - Área 03;
+- 🤹 Hard Skills => HTML, CSS, Python, JavaScript;
 - ⌛ 22 anos;
 ## 🛠️ Tools 🛠️
 
-### Back-end
+### 📥 Back-end 📥
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-14354C?style=for-the-badge&logo=javascript&logoColor=yellow)
-### Front-end
+### 📤 Front-end 📤
 ![js](https://img.shields.io/badge/JavaScript-14354C?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-![joaovitorlopes-contributions](https://activity-graph.herokuapp.com/graph?username=joaovitorlopes&theme=react-dark)
+<p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitorlopes&theme=dark" alt="joaovitorlopes" /></p>
 <div align="center">
   <a href="https://github.com/joaovitorlopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorlopes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
