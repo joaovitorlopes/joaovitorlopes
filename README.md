@@ -1,14 +1,16 @@
 ### Olá, eu sou o João! 👋
 - 👨🏻‍💻 Analista de Sistemas
-- 🔭 Cursando Computação Forense e Cyber Segurança;
+- 🔭 Pós-graduado em Computação Forense e Cyber Segurança;
 - 🌱 Pretendo ser Perito Criminal Federal - Área 03;
-- 👯 Hard Skills => HTML, CSS, Python
-- 🤔 21 anos
-## Tools
+- 👯 Hard Skills => HTML, CSS, Python, JavaScript;
+- ⌛ 22 anos;
+## 🛠️ Tools 🛠️
 
 ### Back-end
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-14354C?style=for-the-badge&logo=javascript&logoColor=yellow)
 ### Front-end
+![js](https://img.shields.io/badge/JavaScript-14354C?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
