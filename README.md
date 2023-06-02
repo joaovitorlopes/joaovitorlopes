@@ -15,12 +15,14 @@
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
+
 <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitorlopes&theme=dark" alt="joaovitorlopes" /></p>
 <div align="center">
-  <a href="https://github.com/joaovitorlopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorlopes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorlopes&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <a href="https://github.com/joaovitorlopes"> </a>
+    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorlopes&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+![JoaoVitorLopes GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorlopes&show_icons=true&theme=dracula)
 
 <div>
   <a href="https://www.instagram.com/joaov_pumped" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
