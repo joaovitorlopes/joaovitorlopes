@@ -1,9 +1,9 @@
-### Olá, eu sou o João! 👋
-- 👨🏻‍💻 Analista de Sistemas
-- 🕵️ Pós-graduado em Computação Forense e Cyber Segurança;
-- 📚 Pretendo ser Perito Criminal Federal - Área 03;
+### Hi, I'm João! 👋
+- 👨🏻‍💻 I'm Systems Analyst and Developer;
+- 🕵️ Specialist in Computer Forensics and Cyber ​​Security;
+- 📚 I dream of being a Criminal Expert for the Brazilian Federal Police;
 - 🤹 Hard Skills => HTML, CSS, Python, JavaScript;
-- ⌛ 22 anos;
+- ⌛ 22 years;
 ## 🛠️ Tools 🛠️
 
 ### 📥 Back-end 📥
