@@ -2,7 +2,7 @@
 - 👨🏻‍💻 I'm Systems Analyst and Developer;
 - 🕵️ Specialist in Computer Forensics and Cyber ​​Security;
 - 📚 I dream of being a Criminal Expert for the Brazilian Federal Police;
-- 🤹 Hard Skills => HTML, CSS, Python, JavaScript;
+- 🤹 Hard Skills => HTML, CSS, JavaScript;
 - ⌛ 22 years;
 ## 🛠️ Tools 🛠️
 
