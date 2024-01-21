@@ -34,3 +34,5 @@
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/joaovitorlopes/count.svg"/></p> 
   <br>
 </div>
+
+![snake gif](https://github.com/joaovitorlopes/joaovitorlopes/blob/output/github-contribution-grid-snake.gif)
