@@ -30,13 +30,6 @@
   <a href="https://www.linkedin.com/in/joaovitorlopesalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
     
-<div align="center">
-  <br>
-    <p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/joaovitorlopes/count.svg"/></p> 
-  <br>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaovitorlopes/joaovitorlopes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaovitorlopes/joaovitorlopes/output/github-contribution-grid-snake.svg">
