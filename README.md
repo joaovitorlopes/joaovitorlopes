@@ -1,8 +1,8 @@
 ### Hi, I'm João! 👋
 - 👨🏻‍💻 I'm Systems Analyst and Developer;
 - 🕵️ Specialist in Computer Forensics and Cyber ​​Security;
-- 📚 I dream of being a Criminal Expert for the Brazilian Federal Police;
-- 🤹 Hard Skills => HTML, CSS, JavaScript;
+- 📚 I dream of being a Perito Criminal for the Brazilian Federal Police;
+- 🤹 Hard Skills => Java, JavaScript;
 - ⌛ 22 years;
 ## 🛠️ Tools 🛠️
 
@@ -13,6 +13,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ### Back-end
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
